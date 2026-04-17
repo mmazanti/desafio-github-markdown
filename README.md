@@ -14,8 +14,8 @@ Desafio proposto na formação Github Certification da dio.me
    + [ ] Realizar alterações, commits, abrir issues e pull requests
 
 4. Formatação com Markdown:
-   + [ ] Edite o arquivo "README.md" em seu repositório
-   + [ ] Utilize a linguagem markdwon para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+   + [x] Edite o arquivo "README.md" em seu repositório
+   + [x] Utilize a linguagem markdwon para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
   
 ### Desafio Extra:
 + [x] Me autenticar utilizando algum método de segurança oferecido pelo GitHub.
